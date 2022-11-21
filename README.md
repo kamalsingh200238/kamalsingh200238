@@ -3,6 +3,7 @@
 ## About me
 
 Hi there, I'm Kamal Singh and a Self-Taught Front End developer and love building beautiful website.
+
 I love working with new tech and solving problems
 
 ---
