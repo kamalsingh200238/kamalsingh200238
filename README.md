@@ -15,7 +15,7 @@ I love working with new tech and solving problems
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" style ="padding-right:10px;"/>
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" height="30px" style ="padding-right:10px;"/>
 - React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- NextJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" height="30px" style ="padding-right:10px;"/>
+- Nextjs
 - Remix
 
 ---
