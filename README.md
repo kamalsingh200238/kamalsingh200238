@@ -12,7 +12,7 @@ Hi there, I'm Kamal Singh and a Self-Taught Front End developer.
 - JavaScript
 - Typescript
 
-### Frameworks I;ve worked with
+### Frameworks I've worked with
 - Tailwind Css
 - Next Js
 - React Js
