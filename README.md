@@ -2,21 +2,20 @@
 
 ## About me
 
-Hi there, I'm Kamal Singh and a Self-Taught Front End developer and love building beautiful website.
-
-I love working with new tech and solving problems
+Hi there, I'm Kamal Singh and a Self-Taught Front End developer.
 
 ---
 
-### Skills and Languages
+### Languages I've worked with
+- HTML
+- CSS
+- JavaScript
+- Typescript
 
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px" style ="padding-right:10px;" /> And CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- Tailwind Css <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30px" height="30px" style ="padding-right:10px;"/>
-- Nextjs
-- Remix
+### Frameworks I;ve worked with
+- Tailwind Css
+- Next Js
+- Recat Js
 
 ---
 
