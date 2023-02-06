@@ -15,7 +15,7 @@ Hi there, I'm Kamal Singh and a Self-Taught Front End developer.
 ### Frameworks I;ve worked with
 - Tailwind Css
 - Next Js
-- Recat Js
+- React Js
 
 ---
 
