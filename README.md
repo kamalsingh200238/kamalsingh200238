@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Kamal Singh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal--singh) [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kamalsingh-portfolio.vercel.app) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kamalsingh1605)
@@ -26,5 +24,3 @@ Thanks for stopping by!
 
 [![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalsingh200238&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kamalsingh200238&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
