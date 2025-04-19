@@ -22,5 +22,5 @@ Thanks for stopping by!
 
 ## Stats
 ![kamalsingh200238's Stats](https://github-readme-stats.vercel.app/api?username=kamalsingh200238&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![kamalsingh200238's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamalsingh200238&theme=nightowl&hide_border=true)
 ![kamalsingh200238's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsingh200238&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![kamalsingh200238's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamalsingh200238&theme=nightowl&hide_border=true)
